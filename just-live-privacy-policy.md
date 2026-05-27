@@ -1,3 +1,4 @@
+# zentryxinteractive.github.io
 **Privacy Policy**
 
 This privacy policy applies to the Just Live app for mobile devices, together with any related services operated by Zentryx Interactive (collectively, the "Application"). Zentryx Interactive is hereby referred to as the "Service Provider".
